@@ -1,0 +1,15 @@
+.default {
+    outline: none;
+    color: rgb(5, 1, 27);
+    background-color: deeppink;
+}
+
+.button {
+    margin:10px;
+    cursor: pointer;
+    overflow: hidden;
+}
+
+.red {
+    background: red;
+}
