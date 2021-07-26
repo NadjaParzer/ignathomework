@@ -1,0 +1,37 @@
+.navlink {
+    margin: 30px;
+    text-decoration: none;
+    color: darkcyan;
+    font-weight: bold;
+}
+
+.mainBlock {
+    margin: 20px;
+    width: 90%;
+    height: 100%;
+}
+.h1 {
+    text-align: center;
+    color: darkcyan;
+}
+
+.block {
+    width: 50px;
+    height: 50px;
+    background-color: darkcyan;
+    margin-left: 20px;
+}
+
+.header {
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    width: 350px;
+    transition-duration: 500ms;
+    transform: translate(-250px);
+}
+.header:hover {
+    
+    transition-duration: 500ms;
+    transform: translate(0);
+}
